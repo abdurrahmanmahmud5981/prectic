@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
 @font-face{
     font-family: myFont;
     src: url(font/Google-sans-Font-Family/ProductSans-Regular.ttf),url(font/Google-sans-Font-Family/ProductSans-Medium.ttf);
